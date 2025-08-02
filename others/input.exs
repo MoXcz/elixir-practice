@@ -1,3 +1,5 @@
+IO.puts("---- Program to calculate area of a square ----")
+IO.puts("---------- (Use only integers) ----------")
 input_length = IO.gets("What is the length? ")
 input_width = IO.gets("What is the width? ")
 
